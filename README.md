@@ -8,12 +8,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+Back in 2017 when I was 📚studying to get CCNA certified in networking I came across html, css and js. As much as I was looking forward to being a network engineer I found a liking towards the world of software engineering. In year's time I had fallen out of love with networking and was only lightly going ahead with web dev on and off. Fast forward to now, I am a few months shy of graduating out of BSc in Computer Science💥 from the University of South Africa, I'm a 👫family man and 💻code in MERN with Typescript, Postgres, Prisma, tailwind and on for frontend/backend (also c++ for uni assignments) on almost daily basis (with or without pushing code to github). My **personal project**: (Still under works, not deployed yet but check it out on github! https://github.com/Tabish1511/PayPer). I am a 👽thinkpad lover and currently restoring a faulty x230, if you know you know😉.  
 
-- A passionate Self-taught Front-end developer
-- Playing XCOM2 in spare time
-- Currently working with MERN stack with Typescript, Postgres, Prisma, tailwind and on.
-- My personal project: (Still under works, not deployed yet but check it out on github! https://github.com/Tabish1511/PayPer)
-- I’m currently open for an Intern or a new job opportunity, this is [linkedIn](www.linkedin.com/in/tabish-khaqan)
 
 <br><br>
 
